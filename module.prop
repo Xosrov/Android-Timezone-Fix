@@ -2,5 +2,5 @@ id=timezone
 name=Timezone Fix
 version=1.0
 versionCode=1
-author=Alireza Miryazdi
+author=Alireza Miryazdi & Behzad Asbahi
 description=Fix outdated time zone for Iran (2022+)
